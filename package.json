@@ -1,0 +1,26 @@
+{
+  "name": "is-standalone",
+  "version": "1.0.0",
+  "description": "function isRunningStandalone() {",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeoffZhu/is-standalone.git"
+  },
+  "keywords": [
+    "standalone",
+    "is-standalone",
+    "isStandalone",
+    "PWA",
+    "ifAddToHomeScreen"
+  ],
+  "author": "geoffzhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeoffZhu/is-standalone/issues"
+  },
+  "homepage": "https://github.com/GeoffZhu/is-standalone#readme"
+}
