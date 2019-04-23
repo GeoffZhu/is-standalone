@@ -1,6 +1,6 @@
 {
   "name": "is-standalone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "function isRunningStandalone() {",
   "main": "index.js",
   "scripts": {
